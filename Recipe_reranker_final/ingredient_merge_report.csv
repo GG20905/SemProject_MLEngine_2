@@ -1,0 +1,98 @@
+from,to,recipes_affected,status
+salt to taste,salt,0,name not in data
+green chilli,green chillies,3,applied
+coriander leaves,coriander (dhania) leaves,2,applied
+cumin (jeera) seeds,cumin seeds (jeera),0,name not in data
+mustard seeds (rai/ kadugu),mustard seeds,0,name not in data
+dry red chilli,dry red chillies,0,name not in data
+coriander (dhania) powder,coriander powder (dhania),0,name not in data
+coriander powde,coriander powder (dhania),1,applied
+coconut,fresh coconut,0,name not in data
+carrots (gajjar),carrot (gajjar),0,name not in data
+whole black pepper corns,whole black peppercorns,0,name not in data
+cinnamon stick,cinnamon stick (dalchini),0,name not in data
+whole egg,whole eggs,0,name not in data
+cloves,cloves (laung),2,applied
+carrots,carrot (gajjar),2,applied
+carrot,carrot (gajjar),3,applied
+green bell peppers,green bell pepper (capsicum),0,name not in data
+cardamom powder,cardamom powder (elaichi),1,applied
+gram flour,gram flour (besan),1,applied
+bay leaf,bay leaf (tej patta),1,applied
+coriander seeds,coriander (dhania) seeds,0,name not in data
+whole almonds (badam),badam (almond),0,name not in data
+slivered almonds (badam),badam (almond),0,name not in data
+almond,badam (almond),1,applied
+potato,potato (aloo),7,applied
+lemons,lemon,0,name not in data
+raw rice,rice,0,name not in data
+green beans,green beans (french beans),0,name not in data
+french beans,green beans (french beans),0,name not in data
+egg,whole eggs,1,applied
+spinach leaves,spinach leaves (palak),1,applied
+spring onion,spring onion (bulb & greens),3,applied
+small brinjal (baingan / eggplant),brinjal (baingan / eggplant),0,name not in data
+cucumbers,cucumber,0,name not in data
+bananas,ripe bananas,1,applied
+cabbage,cabbage (patta gobi/ muttaikose),2,applied
+brinjals,brinjal (baingan / eggplant),1,applied
+fenugreek leaves,methi leaves (fenugreek leaves),1,applied
+beetroots,beetroot,0,name not in data
+black cardamom,black cardamom (badi elaichi),0,name not in data
+apples,apple,0,name not in data
+sweet potato,sweet potatoes,2,applied
+shallot,shallots,0,name not in data
+black pepper corns,whole black peppercorns,0,name not in data
+fresh red chilli,fresh red chillies,0,name not in data
+red yellow or green bell pepper (capsicum),red yellow and green bell peppers (capsicum),0,name not in data
+avocados,avocado,0,name not in data
+lemon grass,lemongrass,0,name not in data
+oranges,orange,0,name not in data
+kokums,kokum (malabar tamarind),0,name not in data
+egg white,egg whites,0,name not in data
+dried rose petals,rose petals,0,name not in data
+soya chunks,soy chunks (nuggets),0,name not in data
+kashmiri dry red chilli,kashmiri dry red chillies,0,name not in data
+lotus seeds,phool makhana (lotus seeds),0,name not in data
+english cucumbers,english cucumber,0,name not in data
+canned black beans,black beans,0,name not in data
+fresh rose petals,rose petals,0,name not in data
+wheat flou,wheat flour,1,applied
+blackbeans,black beans,1,applied
+kalpasi flower (stone flower),stone flower,0,name not in data
+papads,papad,0,name not in data
+white-rice,white rice,1,applied
+canned beans,beans,0,name not in data
+chicken thigh,chicken thighs,0,name not in data
+summac,sumac,0,name not in data
+puris used for pani puri,pani puris,0,name not in data
+maize flou,maize flour,1,applied
+margarine (reduced calorie),margarine,0,name not in data
+turkey berries,sundakkai (turkey berries),0,name not in data
+beetel leaves,betel leaves (paan),0,name not in data
+kalamata olives,kalmatta olives,0,name not in data
+white wine,dry white wine,0,name not in data
+mustar,mustard,1,applied
+bamboo shots,bamboo shoots,0,name not in data
+pigeon pea,pigeon peas,1,applied
+green gram,green grams,1,applied
+yoghurt,yogurt,1,applied
+cow pea leaves,cow-pea leaves,1,applied
+clamps,clams,0,name not in data
+black peppe,black pepper,1,applied
+potato (aloo),potatoes (aloo),0,name not in data
+bay leaves (tej patta),bay leaf (tej patta),0,name not in data
+gingelly oil,sesame (gingelly) oil,0,name not in data
+sea salt,salt,0,name not in data
+kosher salt,salt,0,name not in data
+"salt, iodized",salt,0,name not in data
+lukewarm water,water,0,name not in data
+chilled water,water,0,name not in data
+hot water,water,0,name not in data
+granulated sugar,sugar,0,name not in data
+white sugar,sugar,1,applied
+blanched tomatoes,tomatoes,0,name not in data
+cooking oil,oil,68,applied
+all-purpose wheat flour,all purpose flour (maida),1,applied
+salt and pepper,salt|black pepper powder,0,name not in data
+maize and beans,maize|beans,1,applied
